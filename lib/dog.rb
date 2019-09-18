@@ -5,6 +5,9 @@ def initialize(dog_name, dog_breed = "Mutt")
     @dog_breed = dog_breed 
 end
 
+def name=(dog_name, dog_breed = "Mutt")
+  
+end
   
  
   
